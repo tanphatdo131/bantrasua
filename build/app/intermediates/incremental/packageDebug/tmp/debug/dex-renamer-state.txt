@@ -1,0 +1,4 @@
+#Sun Dec 11 23:04:45 ICT 2022
+base.0=D\:\\PTUDDD\\detaiptuddd\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
